@@ -3,7 +3,7 @@
 💫 **Sobre mí**:
 - 🚀 **Explorando**: Recién graduada en Desarrollo de Aplicaciones Multiplataforma, lista para despegar.
 - 🌐 **Colaboraciones**: Abierta a proyectos tanto en Frontend como en Backend. ¡Hagamos magia juntos!
-- 📘 **Aprendiendo**: Profundizando en **React**, mientras descubro los misterios del Backend.
+- 📘 **Aprendiendo**: Profundizando en **React** y **Vue**, mientras descubro los misterios del Backend.
 - 🔍 **Objetivo**: Buscar una oportunidad profesional en la que pueda seguir aprendiendo, desarrollando mis habilidades tecnológicas y colaborar activamente en el éxito de la empresa.
 - 🌟 **Dato personal**: Soy constante, perseverante, curiosa y siempre busco la perfección en lo que hago.
 
@@ -56,7 +56,7 @@
 ---
 
 🌱 **Actualmente aprendiendo**:
-- Profundizando en codificación de **React**, **TailwindCSS** y **TypeScript**.
+- Profundizando en codificación de **React**, **Vue**, **TailwindCSS** y **TypeScript**.
 - Explorando con la **arquitectura de microservicios**.
 - Mejorando mis habilidades en diseño de **UX/UI**.
 
@@ -64,4 +64,4 @@
 
 ⭐️ **From Tania Pascual**
 
-Última edición: 04/12/2024
+Última edición: 18/12/2024
